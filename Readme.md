@@ -13,6 +13,11 @@ CLI tool to send DNS queries to a DNS server.
 python DNS_Client.py <hostname> <server_ip> [port]
 ```
 
+**VSC**
+```bash
+Run Python File in Dedicated Terminal
+```
+
 ### DNS_Server.py
 Authoritative DNS server that resolves domain names to IP addresses.
 
@@ -21,7 +26,10 @@ Authoritative DNS server that resolves domain names to IP addresses.
 python DNS_Server.py [--port 53]
 ```
 
-
+**VSC**
+```bash
+Run Python File in Dedicated Terminal
+```
 ### Caching_Server.py
 DNS caching server that stores recent queries to improve response times.
 
@@ -30,6 +38,11 @@ DNS caching server that stores recent queries to improve response times.
 python Caching_Server.py [--port 53] [--upstream_server 8.8.8.8]
 ```
 
+**VSC**
+```bash
+Run Python File in Dedicated Terminal
+```
+![alt text]({111EFB05-307D-483D-ACB2-88547428A925}.png)
 ## Installation
 
 ```bash

@@ -5,6 +5,11 @@ A DNS implementation project featuring a DNS client, server, and caching server.
 
 ## Components
 
+### Dedicated Terminal
+
+![alt text]({9A0E2E37-B86E-4CA6-8EE7-AF614B63FD88}.png)
+
+
 ### DNS_Client.py
 CLI tool to send DNS queries to a DNS server.
 
